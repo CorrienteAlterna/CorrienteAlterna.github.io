@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Ediciones años 80
 description: >
   Here.
 hide_description: true
