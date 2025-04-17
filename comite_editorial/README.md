@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Documentation
+title: Comité editorial
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
-permalink: /docs/
+permalink: /comite_editorial/
 ---
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
@@ -13,6 +13,7 @@ Here you should be able to find everything you need to know to accomplish the mo
 While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
 {:.note}
 
+hola
 
 ## Getting started
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
