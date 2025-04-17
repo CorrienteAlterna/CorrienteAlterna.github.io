@@ -48,13 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Posts
-    url:               /example/
+  - title:             Ediciones
+    url:               /ediciones/
+  - title:             Ediciones años 80
+    url:               /ediciones_anteriores/
   - title:             Comité editorial
     url:               /comite_editorial/
   - title:             Contacto
-    url:               /about/
-
+    url:               /contacto/
+  - title:             Example
+    url:               /example/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
