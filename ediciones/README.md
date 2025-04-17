@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Ediciones
 description: >
   Here.
 hide_description: true
