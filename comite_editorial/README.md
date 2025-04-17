@@ -49,4 +49,4 @@ hola
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
 
-{:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+[![Resume PDF](/assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
