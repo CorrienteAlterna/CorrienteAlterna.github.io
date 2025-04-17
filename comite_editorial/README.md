@@ -49,4 +49,4 @@ hola
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
 
-![Johan_Fondo_Blanco](https://github.com/user-attachments/assets/d161205a-2e69-4930-bd3f-520004787ea9){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+{:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
