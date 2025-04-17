@@ -50,7 +50,7 @@ hola
 [CHANGELOG]: ../CHANGELOG.md
 
 
-[![Johan](/assets/img/Johan.png){:.lead width="884" height="632" loading="lazy"}][Johan]{:.no-hover.no-mark}
+![Johan](/assets/img/Johan.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Johan Sebastián Santamaría | **Ingeniería Electrónica**.
 {:.figcaption}
