@@ -43,7 +43,7 @@ Daniel --- Estudiante de ingeniería mecatrónica.
 Andres --- Estudiante de ingeniería mecánica.
 {:.figcaption}
 
-![Willy](/assets/img/Homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Willy](/assets/img/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Willy --- Estudiante de ingeniería electrónica.
 {:.figcaption}
