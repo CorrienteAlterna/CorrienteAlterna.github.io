@@ -10,7 +10,7 @@ permalink: /comite_editorial/
 
 Nuestro equipo está formado por personas apasionadas que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil.
 
-## Docente que acompaña y avala el proyeto
+## Docente que acompaña y avala el proyecto
 
 ![René Soto](/assets/img/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
