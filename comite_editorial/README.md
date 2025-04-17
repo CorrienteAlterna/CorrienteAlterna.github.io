@@ -48,3 +48,5 @@ hola
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
+
+![Johan_Fondo_Blanco](https://github.com/user-attachments/assets/d161205a-2e69-4930-bd3f-520004787ea9)
