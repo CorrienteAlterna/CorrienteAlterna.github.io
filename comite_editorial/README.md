@@ -2,11 +2,13 @@
 layout: page
 title: Comité editorial
 description: >
-  Si hemos alcanzado grandes logros es porque hemos estado a hombros de gigantes. Nuestro equipo está formado por estudiantes apasionados que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil
+  Si hemos alcanzado grandes logros es porque hemos estado a hombros de gigantes. Nuestro equipo está formado por estudiantes apasionados que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil.
 hide_description: true
 sitemap: false
 permalink: /comite_editorial/
 ---
+
+Si hemos alcanzado grandes logros es porque hemos estado a hombros de gigantes. Nuestro equipo está formado por estudiantes apasionados que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil.
 
 ## Docente que acompaña y avala el proyeto
 
