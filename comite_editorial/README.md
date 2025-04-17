@@ -48,7 +48,7 @@ Andres --- Estudiante de ingeniería mecánica.
 Willy --- Estudiante de ingeniería electrónica.
 {:.figcaption}
 
-![Otro](/assets/img/Johan_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Otro](/assets/img/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Otro --- Estudiante de ingeniería.
 {:.figcaption}
