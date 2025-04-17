@@ -49,4 +49,9 @@ hola
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
 
-[![Resume PDF](/assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+
+[![Resume PDF](/assets/img/Johan_Fondo_Blanco.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+
+Johan Sebastián Santamaría | **Ingeniería Electrónica**.
+{:.figcaption}
+
