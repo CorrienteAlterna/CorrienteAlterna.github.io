@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Corriente Alterna
@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  assets/img/logoCA_1.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
