@@ -25,7 +25,7 @@ Un profesor bello que nos va a ayudar --- Profesor de tal y tal materia.
 Carlos Arturo Parra Camelo --- Estudiante de ingeniería de sistemas y computación.
 {:.figcaption}
 
-![Johan](/assets/img/Johan_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Johan](/assets/img/johan_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Johan Sebastián Santamaría --- Estudiante de ingeniería electrónica.
 {:.figcaption}
