@@ -12,7 +12,7 @@ permalink: /ediciones/
 
 ## Edición 16
 
-[PDF](/assets/pdf/corriente_alterna_16.pdf)
+Visualiza / descarga aquí -> [PDF](/assets/pdf/corriente_alterna_16.pdf)
 
 ![](/assets/img/CA/corriente_alterna_16.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
