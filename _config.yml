@@ -25,7 +25,7 @@ title:                 Corriente Alterna
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Periódico estudiantil de la facultad de ingeniería de la Universidad Nacional de Colombia.
+  Periódico estudiantil de la facultad de ingeniería de la Universidad Nacional de Colombia
 
 # A shorter description for the sidebar.
 tagline:               Periódico estudiantil de la Facultad de ingeniería de la Universidad Nacional de Colombia.
@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logoCA_1.png
+logo:                  /assets/img/pagina/logoCA_1.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -49,13 +49,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Ediciones
-    url:               /ediciones/
+    url:               /menu_ediciones/
   - title:             Ediciones años 80
-    url:               /ediciones_anteriores/
+    url:               /menu_ediciones_anteriores/
   - title:             Comité editorial
-    url:               /comite_editorial/
+    url:               /menu_comite_editorial/
   - title:             Contacto
-    url:               /contacto/
+    url:               /menu_contacto/
   #- title:             Example
   #  url:               /example/
 # Add links to the footer.
@@ -94,7 +94,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/fondoCA_1.png
+accent_image:          /assets/img/pagina/fondoCA_1.png
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -406,21 +406,21 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/logoCA_1.png
+        path: /assets/img/pagina/logoCA_1.png
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/logoCA_1.png
+        path: /assets/img/pagina/logoCA_1.png
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/logoCA_1.png
+        path: /assets/img/pagina/logoCA_1.png
       links:
         - title: Project Link
           url: https://example.com
