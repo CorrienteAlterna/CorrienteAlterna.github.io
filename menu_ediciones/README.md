@@ -93,7 +93,7 @@ Edición 12 --- Corriente Alterna.
 
 ## Edición 11
 
-Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [Pronto estará disponible] 
+Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [PDF](/assets/pdf/corriente_alterna_11.pdf)
 
 ![](/assets/img/periodicos/corriente_alterna_11.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
@@ -102,7 +102,7 @@ Edición 11 --- Corriente Alterna.
 
 ## Edición 10
 
-Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [Pronto estará disponible] 
+Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [PDF](/assets/pdf/corriente_alterna_10.pdf) 
 
 ![](/assets/img/periodicos/corriente_alterna_10.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
