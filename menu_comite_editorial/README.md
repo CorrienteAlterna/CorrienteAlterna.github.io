@@ -5,7 +5,7 @@ description: >
   Nuestro equipo está formado por estudiantes apasionados que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil.
 hide_description: true
 sitemap: false
-permalink: /comite_editorial/
+permalink: /menu_comite_editorial/
 ---
 
 Nuestro equipo está formado por personas apasionadas que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil.

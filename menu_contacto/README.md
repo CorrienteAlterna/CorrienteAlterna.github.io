@@ -5,7 +5,7 @@ description: >
   Here.
 hide_description: true
 sitemap: false
-permalink: /contacto/
+permalink: /menu_contacto/
 ---
 
 Contacto

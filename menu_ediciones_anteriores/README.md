@@ -5,7 +5,7 @@ description: >
   Here.
 hide_description: true
 sitemap: false
-permalink: /ediciones_anteriores/
+permalink: /menu_ediciones_anteriores/
 ---
 
 ¡Desde aquí podrás visualizar y/o descargar las ediciones pasadas!

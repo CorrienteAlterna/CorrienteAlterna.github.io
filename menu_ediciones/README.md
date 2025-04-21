@@ -5,7 +5,7 @@ description: >
   Here.
 hide_description: true
 sitemap: false
-permalink: /ediciones/
+permalink: /menu_ediciones/
 ---
 
 ¡Desde aquí podrás visualizar y/o descargar las ediciones!
