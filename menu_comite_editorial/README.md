@@ -17,6 +17,10 @@ Nuestro equipo está formado por personas apasionadas que se dedican a fortalece
 Un profesor bello que nos va a ayudar --- Profesor de tal y tal materia.
 {:.figcaption}
 
+![Alexei](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+
+Alexei Ochoa --- Profesor de ___.
+{:.figcaption}
 
 ## Coordinación
 
