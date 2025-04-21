@@ -14,7 +14,7 @@ permalink: /ediciones/
 
 ************ [PDF](/assets/pdf/corriente_alterna_16.pdf) ************
 
-![](/assets/img/CA/corriente_alterna_16.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![](/assets/img/CA/periodicos/corriente_alterna_16.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Edición 16 --- Corriente Alterna.
 {:.figcaption}
@@ -23,7 +23,7 @@ Edición 16 --- Corriente Alterna.
 
 ************ [PDF](/assets/pdf/corriente_alterna_17.pdf) ************
 
-![](/assets/img/CA/corriente_alterna_17.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![](/assets/img/CA/periodicos/corriente_alterna_17.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Edición 17 --- Corriente Alterna.
 {:.figcaption}
@@ -32,7 +32,7 @@ Edición 17 --- Corriente Alterna.
 
 ************ [PDF](/assets/pdf/corriente_alterna_18.pdf) ************
 
-![](/assets/img/CA/corriente_alterna_18.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![](/assets/img/CA/periodicos/corriente_alterna_18.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Edición 18 --- Corriente Alterna.
 {:.figcaption}
@@ -41,7 +41,7 @@ Edición 18 --- Corriente Alterna.
 
 ************ [PDF](/assets/pdf/corriente_alterna_19.pdf) ************
 
-![](/assets/img/CA/corriente_alterna_19.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![](/assets/img/CA/periodicos/corriente_alterna_19.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Edición 19 --- Corriente Alterna.
 {:.figcaption}
@@ -50,7 +50,7 @@ Edición 19 --- Corriente Alterna.
 
 ************ [PDF](/assets/pdf/corriente_alterna_20.pdf) ************
 
-![](/assets/img/CA/corriente_alterna_20.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![](/assets/img/CA/periodicos/corriente_alterna_20.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Edición 20 --- Corriente Alterna.
 {:.figcaption}
