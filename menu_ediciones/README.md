@@ -57,7 +57,7 @@ Edición 16 --- Corriente Alterna.
 
 ## Edición 15
 
-Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [Pronto estará disponible] 
+Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [PDF](/assets/pdf/corriente_alterna_15.pdf) 
 
 ![](/assets/img/periodicos/corriente_alterna_15.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
@@ -66,7 +66,7 @@ Edición 15 --- Corriente Alterna.
 
 ## Edición 14
 
-Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [Pronto estará disponible] 
+Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [PDF](/assets/pdf/corriente_alterna_14.pdf) 
 
 ![](/assets/img/periodicos/corriente_alterna_14.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
@@ -75,7 +75,7 @@ Edición 14 --- Corriente Alterna.
 
 ## Edición 13
 
-Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [Pronto estará disponible] 
+Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [PDF](/assets/pdf/corriente_alterna_13.pdf) 
 
 ![](/assets/img/periodicos/corriente_alterna_13.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
@@ -84,7 +84,7 @@ Edición 13 --- Corriente Alterna.
 
 ## Edición 12
 
-Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [Pronto estará disponible] 
+Visualiza aquí &rarr;&rarr;&rarr;&rarr;&rarr; [PDF](/assets/pdf/corriente_alterna_12.pdf) 
 
 ![](/assets/img/periodicos/corriente_alterna_12.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
