@@ -2,7 +2,7 @@
 layout: page
 title: Contacto
 description: >
-  Here.
+  Esta sección centraliza los canales de contacto del comité editorial, priorizando el grupo de WhatsApp por su alta actividad. También incluye enlaces para correo, redes sociales y formularios destinados a nuevos miembros y recepción de material para publicaciones.
 hide_description: true
 sitemap: false
 permalink: /menu_contacto/
