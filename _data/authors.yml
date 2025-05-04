@@ -13,10 +13,11 @@ author1:
     Open `_data/authors.yml` to edit this text.
 
   picture:           https://placehold.it/128x128
+  social:
 
-  email:             peun_fibog@unal.edu.co
-  instagram:         corriente.alterna
-  github:            corrientealterna
+    email:             peun_fibog@unal.edu.co
+    instagram:         corriente.alterna
+    github:            corrientealterna
 
 author2:
   name:              <Johan Sebastián> <Santamaría>
@@ -95,7 +96,7 @@ author2:
     # x:               <username>
 
 # Another author (optional)
-author2:
+author3:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
   about:             |
