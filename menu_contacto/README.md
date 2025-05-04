@@ -8,7 +8,7 @@ sitemap: false
 permalink: /menu_contacto/
 ---
 
-Desdewuwuwuwuwu el comité editorial ponemos a tu disposición varios canales de atención. En todos ellos estaremos encantados de resolver tus inquietudes. Sin embargo, te recomendamos que utilices nuestro grupo de WhatsApp, ya que es donde estamos más activos.  
+Desde el comité editorial ponemos a tu disposición varios canales de atención. En todos ellos estaremos encantados de resolver tus inquietudes. Sin embargo, te recomendamos que utilices nuestro grupo de WhatsApp, ya que es donde estamos más activos.  
 
 Además, si quieres enviarnos material para su publicación, te pedimos que lo hagas a través del enlace de Google Forms destinado específicamente para ello. ¡Gracias por tu colaboración!
 
