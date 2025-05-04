@@ -2,7 +2,7 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:peun_fibog@unal.edu.co'
+  prepend: 'mailto:'
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -23,7 +23,7 @@ facebook:
 instagram:
   name: Instagram
   icon: icon-instagram
-  prepend: 'https://instagram.com/corriente.alterna'
+  prepend: 'https://instagram.com/'
 whatsapp:
   name: WhatsApp
   icon: icon-whatsapp
@@ -112,7 +112,7 @@ ondrive:
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/corrientealterna"
+  prepend: "https://github.com/"
 npm:
   name: npm
   icon: icon-npm
