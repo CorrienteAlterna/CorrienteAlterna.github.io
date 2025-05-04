@@ -39,9 +39,9 @@ keywords:              []
 logo:                  /assets/img/pagina/logoCA_1.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:
+author1:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
+  name:                <Johan> <Santamaria>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -56,8 +56,8 @@ menu:
     url:               /menu_comite_editorial/
   - title:             Contacto
     url:               /menu_contacto/
-  #- title:             Example
-  #  url:               /example/
+  - title:             Example
+    url:               /example/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
