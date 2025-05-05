@@ -6,13 +6,13 @@ excerpt_separator: <!--more-->
 sitemap: false
 ---
 
-# Concurso: Unal en 100 palabras   
+# Convocatoria: Nuevos miembros del comité editorial  
 
 ¡Hola, comunidad estudiantil! 
  
 Si eres estudiante, profesor, líder de un grupo estudiantil, semillero o simplemente te apasiona la escritura esta es tu oportunidad.
 
-![](/assets\img\publicaciones\concurso_unal.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![](/assets\img\publicaciones\nuevos_miembros.jpeg){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Concurso: Unal en 100 palabras.
 {:.figcaption} 
