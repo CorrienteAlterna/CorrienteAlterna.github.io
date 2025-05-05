@@ -8,9 +8,13 @@ sitemap: false
 
 # Convocatoria: Nuevos miembros del comité editorial  
 
-¡Hola, comunidad estudiantil! 
- 
-Si eres estudiante, profesor, líder de un grupo estudiantil, semillero o simplemente te apasiona la escritura esta es tu oportunidad.
+🚨 Sé parte de "Corriente Alterna" -
+Periódico Estudiantil de la Facultad de Ingeniería 🚨 
+
+¡Hola, comunidad estudiantil! 👋
+
+Si te apasiona la escritura, el diseño, la investigación, tienes ideas para el periódico, quieres fortalecer tus habilidades
+blandas o simplemente quieres involucrarte más con la comunidad estudiantil, esta es tu oportunidad.
 
 ![](/assets\img\publicaciones\nuevos_miembros.jpeg){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
@@ -18,7 +22,20 @@ Concurso: Unal en 100 palabras.
 {:.figcaption} 
 
 
-Si estás interesado en envíar material, por favor hazlo a través del siguiente formulario:
+📅 Primera reunión informativa: Fecha: Viernes 25 de Abril de 2025
+
+Hora: 4 a 6 PM
+
+Lugar: Universidad Nacional de Colombia - Sede Bogotá,
+
+Edificio 401 Julio Garavito - Salón 206
+
+¿Por qué venir?
+
+La primera hora daremos información sobre el grupo.
+La segunda hora, realizaremos un taller de dibujo orientado a la caricatura.
+
+Si estás interesado en ser parte del comité editorial, por favor llena el siguiente formulario:
 
 https://docs.google.com/forms/d/e/1FAIpQLSdksaqHJSd1kS0uiGygMjdRh-fDDiN24AAqBG0urzexl-Axqg/viewform
 
@@ -34,5 +51,4 @@ https://corrientealterna.github.io/
 
 ¡Nos encantaría contar contigo para formar parte de este emocionante proyecto!
 
-Atentamente,l equipo de Corriente AlternaFacultad de Ingeniería, Universidad Nacional de Colombia
-
+Atentamente, el equipo de Corriente AlternaFacultad de Ingeniería, Universidad Nacional de Colombia
