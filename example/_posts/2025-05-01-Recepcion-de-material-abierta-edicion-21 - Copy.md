@@ -63,5 +63,5 @@ https://corrientealterna.github.io/
 
 ¡Nos encantaría contar contigo para formar parte de este emocionante proyecto!
 
-Atentamente, el equipo de Corriente AlternaFacultad de Ingeniería, Universidad Nacional de Colombia
+Atentamente, el equipo de Corriente Alterna, Facultad de Ingeniería, Universidad Nacional de Colombia
 
