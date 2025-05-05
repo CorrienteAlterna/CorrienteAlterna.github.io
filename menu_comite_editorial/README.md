@@ -34,7 +34,7 @@ Carlos Arturo Parra Camelo --- Estudiante de ingeniería de sistemas y computaci
 Johan Sebastián Santamaría --- Estudiante de ingeniería electrónica.
 {:.figcaption}
 
-![Lina](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Lina](/assets/img/personas/lina_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Lina María Betancourt Quintero --- Estudiante de ingeniería química.
 {:.figcaption}
