@@ -8,55 +8,51 @@ sitemap: false
 permalink: /menu_comite_editorial/
 ---
 
-Nuestro equipo está formado por personas apasionadas que se dedican a fortalecer las habilidades blandas, de comunicación y escritura dentro de nuestra comunidad estudiantil.
+Nuestro equipo está compuesto por estudiantes comprometidos y apasionados, unidos por el objetivo de fomentar la creatividad, la comunicación efectiva y el desarrollo de habilidades blandas en nuestra comunidad estudiantil. Cada miembro aporta su talento y entusiasmo para construir un espacio donde la escritura, el diseño y la investigación se convierten en herramientas clave para inspirar y conectar a toda la facultad.
 
-## Docente que acompaña y avala el proyecto
+<h1 align="center"> Docentes que acompañan y avalan el proyecto </h1>
 
-![René Soto](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Fernando](/assets/img/personas/foto_fernando.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Un profesor bello que nos va a ayudar --- Profesor de tal y tal materia.
-{:.figcaption}
+<h3 align="center"> Fernando Augusto Herrera León </h3>
+<p align="center"> Profesor de Ingeniería Eléctrica </p>
 
-![Alexei](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Alexei](/assets/img/personas/foto_alexei.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Alexei Ochoa --- Profesor de ___.
-{:.figcaption}
+<h3 align="center"> Alexei Gabriel Ochoa Duarte </h3>
+<p align="center"> Profesor de Ingeniería de Sistemas y Computación </p>
 
-## Coordinación
+<h1 align="center"> Coordinación </h1>
+
 
 ![Carlos](/assets/img/personas/carlos_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Carlos Arturo Parra Camelo --- Estudiante de ingeniería de sistemas y computación.
-{:.figcaption}
+<h3 align="center"> Carlos Arturo Parra Camelo </h3>
+<p align="center"> Estudiante de Ingeniería de Sistemas y Computación </p>
 
 ![Johan](/assets/img/personas/johan_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Johan Sebastián Santamaría --- Estudiante de ingeniería electrónica.
-{:.figcaption}
+<h3 align="center"> Johan Sebastián Santamaría </h3>
+<p align="center"> Estudiante de Ingeniería Electrónica </p>
 
 ![Lina](/assets/img/personas/lina_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Lina María Betancourt Quintero --- Estudiante de ingeniería química.
-{:.figcaption}
+<h3 align="center"> Lina María Betancourt Quintero </h3>
+<p align="center"> Estudiante de Ingeniería Química </p>
 
 ![Daniel](/assets/img/personas/daniel_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Daniel --- Estudiante de ingeniería mecatrónica.
-{:.figcaption}
+<h3 align="center"> Daniel Poveda Ruiz </h3>
+<p align="center"> Estudiante de Ingeniería Mecatrónica </p>
 
 ![Andres](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Andres --- Estudiante de ingeniería mecánica.
-{:.figcaption}
+<h3 align="center"> Andres Felipe Espinosa Quiroga </h3>
+<p align="center"> Estudiante de Ingeniería Mecánica </p>
 
 ![Willy](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-Willy --- Estudiante de ingeniería electrónica.
-{:.figcaption}
-
-![Otro](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
-
-Otro --- Estudiante de ingeniería.
-{:.figcaption}
+<h3 align="center"> Wilson Ramirez Caicedo </h3>
+<p align="center"> Estudiante de Ingeniería Electrónica </p>
 
 
