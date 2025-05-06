@@ -17,7 +17,9 @@ Si eres estudiante, profesor, líder de un grupo estudiantil, semillero o simp
 Recepción de material --- Edición 21.
 {:.figcaption} 
 
-¿Cómo puedo participar?Según la categoría en la que quieras participar, estamos sugiriendo el tipo de contenido que puedes enviar, así:
+¿Cómo puedo participar?
+
+Según la categoría en la que quieras participar, estamos sugiriendo el tipo de contenido que puedes enviar, así:
 
 ## Comunidad académica en general 
 
@@ -49,17 +51,15 @@ Sabemos que en algunas de las materias que imparten, los estudiantes desarrollan
 
 Si estás interesado en envíar material, por favor hazlo a través del siguiente formulario:
 
-https://docs.google.com/forms/d/e/1FAIpQLSdksaqHJSd1kS0uiGygMjdRh-fDDiN24AAqBG0urzexl-Axqg/viewform
-
-Además, puedes seguirnos en nuestras redes sociales para estar al tanto de todas las novedades y eventos:  Instagram: @corriente.alterna
+[Visitar el formulario](https://forms.gle/NFmECgkruNKBLbUb7 "Ir al forms")
 
 También puedes unirte a nuestro grupo de whatsapp de CA:
 
-https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1
+[Unirme al grupo de whatsapp](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al grupo de whatsapp")
 
 O darle un vistazo a todas las ediciones de CA:
 
-https://corrientealterna.github.io/
+[Visitar el sitio web](https://corrientealterna.github.io/ "Ir al sitio web")
 
 ¡Nos encantaría contar contigo para formar parte de este emocionante proyecto!
 
