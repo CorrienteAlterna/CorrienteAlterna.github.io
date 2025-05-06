@@ -8,51 +8,51 @@ sitemap: false
 permalink: /menu_comite_editorial/
 ---
 
-Nuestro equipo está compuesto por estudiantes comprometidos y apasionados, unidos por el objetivo de fomentar la creatividad, la comunicación efectiva y el desarrollo de habilidades blandas en nuestra comunidad estudiantil. Cada miembro aporta su talento y entusiasmo para construir un espacio donde la escritura, el diseño y la investigación se convierten en herramientas clave para inspirar y conectar a toda la facultad.
+Nuestro equipo está compuesto por docentes y estudiantes apasionados, unidos por el objetivo de fomentar la creatividad, la comunicación efectiva y el desarrollo de habilidades blandas en nuestra comunidad estudiantil. Cada miembro aporta su talento y entusiasmo para construir un espacio donde la escritura, el diseño y la investigación se convierten en herramientas clave para inspirar y conectar a toda la facultad.
 
 <h1 align="center"> Docentes que acompañan y avalan el proyecto </h1>
-
-![Fernando](/assets/img/personas/foto_fernando.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Fernando Augusto Herrera León </h3>
 <p align="center"> Profesor de Ingeniería Eléctrica </p>
 
-![Alexei](/assets/img/personas/foto_alexei.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Fernando](/assets/img/personas/foto_fernando.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Alexei Gabriel Ochoa Duarte </h3>
 <p align="center"> Profesor de Ingeniería de Sistemas y Computación </p>
 
+![Alexei](/assets/img/personas/foto_alexei.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+
 <h1 align="center"> Coordinación </h1>
-
-
-![Carlos](/assets/img/personas/carlos_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Carlos Arturo Parra Camelo </h3>
 <p align="center"> Estudiante de Ingeniería de Sistemas y Computación </p>
 
-![Johan](/assets/img/personas/johan_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Carlos](/assets/img/personas/carlos_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Johan Sebastián Santamaría </h3>
 <p align="center"> Estudiante de Ingeniería Electrónica </p>
 
-![Lina](/assets/img/personas/lina_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Johan](/assets/img/personas/johan_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Lina María Betancourt Quintero </h3>
 <p align="center"> Estudiante de Ingeniería Química </p>
 
-![Daniel](/assets/img/personas/daniel_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Lina](/assets/img/personas/lina_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Daniel Poveda Ruiz </h3>
 <p align="center"> Estudiante de Ingeniería Mecatrónica </p>
 
-![Andres](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Daniel](/assets/img/personas/daniel_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Andres Felipe Espinosa Quiroga </h3>
 <p align="center"> Estudiante de Ingeniería Mecánica </p>
 
-![Willy](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Andres](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Wilson Ramirez Caicedo </h3>
 <p align="center"> Estudiante de Ingeniería Electrónica </p>
+
+![Willy](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+
 
 
