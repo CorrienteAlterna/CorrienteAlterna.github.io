@@ -47,12 +47,12 @@ Nuestro equipo está compuesto por docentes y estudiantes apasionados, unidos po
 <h3 align="center"> Andres Felipe Espinosa Quiroga </h3>
 <p align="center"> Estudiante de Ingeniería Mecánica </p>
 
-![Andres](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Andres](/assets/img/personas/foto_andres.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 <h3 align="center"> Wilson Ramirez Caicedo </h3>
 <p align="center"> Estudiante de Ingeniería Electrónica </p>
 
-![Willy](/assets/img/personas/homero_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
+![Willy](/assets/img/personas/foto_willy.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 
 
