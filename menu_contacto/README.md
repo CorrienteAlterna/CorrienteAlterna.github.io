@@ -12,19 +12,27 @@ Desde el comité editorial ponemos a tu disposición varios canales de atención
 
 Además, si quieres enviarnos material para su publicación, te pedimos que lo hagas a través del enlace de Google Forms destinado específicamente para ello. ¡Gracias por tu colaboración!
 
-<h3 align="center"> Correo electrónico del grupo </h3>
-<p align="center"> peun_fibog@gmail.edu.co </p>
+## Correo electrónico del grupo
 
-<h3 align="center"> Instagram </h3>
-<p align="center"> @corriente.alterna </p>
+[peun_fibog@unal.edu.co](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al correo")
 
-<h3 align="center"> Grupo de whatsapp </h3>
-<p align="center"> https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1  </p>
+## Instagram
+[@Corriente.Alterna](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al instagram")
 
-<h3 align="center"> Formulario de nuevos miembros </h3>
-<p align="center"> https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1  </p>
+## Grupo de whatsapp
 
-<h3 align="center"> Formulario de recepción de material </h3>
-<p align="center"> https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1  </p>
+[Unirme al grupo de whatsapp](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al grupo de whatsapp")
 
+
+## Formulario de nuevos miembros
+
+[Visitar el formulario](https://forms.gle/vh1GtVfSrMMsVrVeA "Ir al forms")
+
+## Formulario de recepción de material
+
+[Visitar el formulario](https://forms.gle/NFmECgkruNKBLbUb7 "Ir al forms")
+
+## Formulario Unal en 100 palabras
+
+[Visitar el formulario](https://forms.gle/xgD6jsACzDzRJA1G7 "Ir al forms")
 
