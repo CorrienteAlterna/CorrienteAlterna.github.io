@@ -25,11 +25,11 @@ Según la categoría en la que quieras participar, estamos sugiriendo el tipo de
 
 ¡Queremos conocer su talento y creatividad! Los invitamos a enviarnos sus escritos y trabajos, sin importar el tema. Pueden ser:
 
-- Escritos de cualquier tipo
+- Escritos de cualquier tipo.
 
-- Fotografías
+- Fotografías.
 
-- Dibujos
+- Dibujos.
 
 ## Grupos estudiantiles, semilleros y organizaciones 
 

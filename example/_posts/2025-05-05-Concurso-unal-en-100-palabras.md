@@ -6,33 +6,33 @@ excerpt_separator: <!--more-->
 sitemap: false
 ---
 
-# Concurso: Unal en 100 palabras   
+# ✍️✨ ¡Concurso: UNAL en 100 palabras! ✨✍️  
 
-¡Hola, comunidad estudiantil! 
- 
-Si eres estudiante, profesor, líder de un grupo estudiantil, semillero o simplemente te apasiona la escritura esta es tu oportunidad.
+👋 ¡Hola, comunidad UNAL!  
+
+¿Eres estudiante de pregrado, posgrado, profesor, administrativo, egresado o simplemente amas escribir? 🖋️ ¡Esta es tu oportunidad para brillar! 🌟 
 
 ![](/assets\img\publicaciones\concurso_unal.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
 Concurso: Unal en 100 palabras.
 {:.figcaption} 
 
+📜 **Reglas del concurso:**  
+- 📏 Extensión: Menor o igual a 100 palabras.  
+- 🎓 Temática: La UNAL.  
+- 🏅 Premios: Publicación de los 3 mejores textos y premios exclusivos.  
+- 📆 Plazo: Envía tu escrito del **5 de mayo al 10 de junio de 2025**.  
 
-Si estás interesado en envíar material, por favor hazlo a través del siguiente formulario:
+📩 **¿Cómo participar?**  
+Envíanos tu texto a través del formulario:  
+👉 [Enviar mi texto](https://forms.gle/xgD6jsACzDzRJA1G7 "Ir al formulario")  
 
-https://docs.google.com/forms/d/e/1FAIpQLSdksaqHJSd1kS0uiGygMjdRh-fDDiN24AAqBG0urzexl-Axqg/viewform
+📢 **Mantente conectado:**  
+- Únete a nuestro grupo de WhatsApp: [Unirme al grupo](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al grupo de WhatsApp")  
+- Explora todas las ediciones de "Corriente Alterna": [Visitar el sitio web](https://corrientealterna.github.io/ "Ir al sitio web")  
 
-Además, puedes seguirnos en nuestras redes sociales para estar al tanto de todas las novedades y eventos:  Instagram: @corriente.alterna
+💡 ¡Deja que tu creatividad hable y forma parte de este emocionante proyecto! 🌟  
 
-También puedes unirte a nuestro grupo de whatsapp de CA:
-
-https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1
-
-O darle un vistazo a todas las ediciones de CA:
-
-https://corrientealterna.github.io/
-
-¡Nos encantaría contar contigo para formar parte de este emocionante proyecto!
-
-Atentamente,l equipo de Corriente AlternaFacultad de Ingeniería, Universidad Nacional de Colombia
-
+Atentamente,  
+**El equipo de Corriente Alterna**  
+Facultad de Ingeniería, Universidad Nacional de Colombia 🦉
