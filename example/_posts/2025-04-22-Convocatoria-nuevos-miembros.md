@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 sitemap: false
 ---
 
-# Convocatoria: Nuevos miembros del comité editorial  
+# 🚨 Convocatoria: Nuevos miembros del comité editorial 🚨  
 
 🚨 Sé parte de "Corriente Alterna" -
 Periódico Estudiantil de la Facultad de Ingeniería 🚨 

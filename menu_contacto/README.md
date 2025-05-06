@@ -14,10 +14,10 @@ Además, si quieres enviarnos material para su publicación, te pedimos que lo h
 
 ## Correo electrónico del grupo
 
-[peun_fibog@unal.edu.co](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al correo")
+[peun_fibog@unal.edu.co](mailto:peun_fibog@unal.edu.co "Ir al correo")
 
 ## Instagram
-[@Corriente.Alterna](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al instagram")
+[@Corriente.Alterna](https://instagram.com/corriente.alterna "Ir al instagram")
 
 ## Grupo de whatsapp
 

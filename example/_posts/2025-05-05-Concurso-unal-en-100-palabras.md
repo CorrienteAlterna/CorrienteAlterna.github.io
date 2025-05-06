@@ -20,7 +20,7 @@ Concurso: Unal en 100 palabras.
 📜 **Reglas del concurso:**  
 - 📏 Extensión: Menor o igual a 100 palabras.  
 - 🎓 Temática: La UNAL.  
-- 🏅 Premios: Publicación de los 3 mejores textos y premios exclusivos.  
+- 🏅 Premios: Publicación de los 3 mejores textos en CA y premios exclusivos.  
 - 📆 Plazo: Envía tu escrito del **5 de mayo al 10 de junio de 2025**.  
 
 📩 **¿Cómo participar?**  
@@ -31,7 +31,7 @@ Envíanos tu texto a través del formulario:
 - Únete a nuestro grupo de WhatsApp: [Unirme al grupo](https://chat.whatsapp.com/J5aQjFDKCzB4NenTcCpOD1 "Ir al grupo de WhatsApp")  
 - Explora todas las ediciones de "Corriente Alterna": [Visitar el sitio web](https://corrientealterna.github.io/ "Ir al sitio web")  
 
-💡 ¡Deja que tu creatividad hable y forma parte de este emocionante proyecto! 🌟  
+💡 ¡Deja que tu creatividad hable por tiy forma parte de este emocionante proyecto! 🌟  
 
 Atentamente,  
 **El equipo de Corriente Alterna**  
