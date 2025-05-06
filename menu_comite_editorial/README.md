@@ -39,12 +39,12 @@ Nuestro equipo está compuesto por docentes y estudiantes apasionados, unidos po
 
 ![Lina](/assets/img/personas/lina_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-<h3 align="center"> Daniel Poveda Ruiz </h3>
+<h3 align="center"> Daniel Poveda Ruíz </h3>
 <p align="center"> Estudiante de Ingeniería Mecatrónica </p>
 
 ![Daniel](/assets/img/personas/daniel_foto.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
 
-<h3 align="center"> Andres Felipe Espinosa Quiroga </h3>
+<h3 align="center"> Andrés Felipe Espinosa Quiroga </h3>
 <p align="center"> Estudiante de Ingeniería Mecánica </p>
 
 ![Andres](/assets/img/personas/foto_andres.png){:.lead width="884" height="632" loading="lazy"}{:.no-hover.no-mark}
